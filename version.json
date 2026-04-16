@@ -2,7 +2,7 @@
   "_comment": "versionCode convention: monotonic integer, bumped each release",
   "versionCode": 4,
   "versionName": "0.2.2",
-  "apkUrl": "https://github.com/Zoumra-LCA/altekk-releases/raw/main/altekk-vpn.apk",
+  "apkUrl": "https://github.com/Zoumra-LCA/altekk-releases/releases/latest/download/altekk-vpn.apk",
   "apkSha256": "f57ed329697d2d2316b29923e4e8656b4e6b923bf2f0be63165365701c352247",
   "minSupportedVersionCode": 1,
   "releasedAt": "2026-04-16",
