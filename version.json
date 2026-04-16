@@ -1,0 +1,14 @@
+{
+  "_comment": "versionCode convention: X*10000 + Y*100 + Z from versionName X.Y.Z",
+  "versionCode": 3,
+  "versionName": "0.2.1",
+  "apkUrl": "https://github.com/Zoumra-LCA/altekk-releases/raw/main/altekk-vpn.apk",
+  "apkSha256": "",
+  "minSupportedVersionCode": 1,
+  "releasedAt": "2026-04-15",
+  "changelog": {
+    "fr": "- Gestion des appareils connectés\n- Filtrage DNS des trackers\n- Fallback plans hors-ligne",
+    "en": "- Connected devices management\n- DNS tracker filtering\n- Offline plans fallback",
+    "ru": "- Управление устройствами\n- Фильтрация DNS трекеров\n- Резервные планы офлайн"
+  }
+}
