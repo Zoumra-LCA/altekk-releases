@@ -1,14 +1,14 @@
 {
   "_comment": "versionCode convention: monotonic integer, bumped each release",
-  "versionCode": 4,
-  "versionName": "0.2.2",
+  "versionCode": 5,
+  "versionName": "0.2.3",
   "apkUrl": "https://github.com/Zoumra-LCA/altekk-releases/releases/latest/download/altekk-vpn.apk",
-  "apkSha256": "f57ed329697d2d2316b29923e4e8656b4e6b923bf2f0be63165365701c352247",
+  "apkSha256": "ae159cba492883b63b83ab49c3fcf91a083516538949ba1ca42f8bf09346d449",
   "minSupportedVersionCode": 1,
   "releasedAt": "2026-04-16",
   "changelog": {
-    "fr": "- Mise à jour automatique in-app\n- Plus besoin de télécharger manuellement",
-    "en": "- In-app auto-update\n- No more manual downloads",
-    "ru": "- Автообновление в приложении\n- Больше не нужно скачивать вручную"
+    "fr": "- Bouton de deconnexion\n- Verification de l'appareil au demarrage\n- Les appareils revoques sont deconnectes automatiquement",
+    "en": "- Logout button\n- Device verification at startup\n- Revoked devices are automatically disconnected",
+    "ru": "- Кнопка выхода\n- Проверка устройства при запуске\n- Отозванные устройства автоматически отключаются"
   }
 }
