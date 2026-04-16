@@ -1,14 +1,14 @@
 {
-  "_comment": "versionCode convention: X*10000 + Y*100 + Z from versionName X.Y.Z",
-  "versionCode": 3,
-  "versionName": "0.2.1",
+  "_comment": "versionCode convention: monotonic integer, bumped each release",
+  "versionCode": 4,
+  "versionName": "0.2.2",
   "apkUrl": "https://github.com/Zoumra-LCA/altekk-releases/raw/main/altekk-vpn.apk",
-  "apkSha256": "",
+  "apkSha256": "f735ba281fcb16c4363f25df81096e32032ea882a920b554d9ff7665e05ab581",
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-04-15",
+  "releasedAt": "2026-04-16",
   "changelog": {
-    "fr": "- Gestion des appareils connectés\n- Filtrage DNS des trackers\n- Fallback plans hors-ligne",
-    "en": "- Connected devices management\n- DNS tracker filtering\n- Offline plans fallback",
-    "ru": "- Управление устройствами\n- Фильтрация DNS трекеров\n- Резервные планы офлайн"
+    "fr": "- Mise à jour automatique in-app\n- Plus besoin de télécharger manuellement",
+    "en": "- In-app auto-update\n- No more manual downloads",
+    "ru": "- Автообновление в приложении\n- Больше не нужно скачивать вручную"
   }
 }
