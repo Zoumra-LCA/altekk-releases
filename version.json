@@ -1,14 +1,14 @@
 {
   "_comment": "versionCode convention: monotonic integer, bumped each release",
-  "versionCode": 7,
-  "versionName": "0.2.5",
+  "versionCode": 8,
+  "versionName": "0.2.6",
   "apkUrl": "https://github.com/Zoumra-LCA/altekk-releases/releases/latest/download/altekk-vpn.apk",
-  "apkSha256": "e28091409035676a0b2da20b614313b80395a48ccd29441d56d91df6e8dbfdbf",
+  "apkSha256": "403accee5a528d03ab18107bbb1f442e347e0b786e6f11fef6868be1d2c3e0bb",
   "minSupportedVersionCode": 1,
   "releasedAt": "2026-04-16",
   "changelog": {
-    "fr": "- Test auto-update in-app",
-    "en": "- Auto-update in-app test",
-    "ru": "- Тест автообновления в приложении"
+    "fr": "- Correction du parsing JSON pour l'auto-update",
+    "en": "- Fix JSON parsing for auto-update",
+    "ru": "- Исправление парсинга JSON для автообновления"
   }
 }
