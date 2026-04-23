@@ -4,7 +4,7 @@
   "versionName": "0.3.0",
   "apkUrl": "https://github.com/Zoumra-LCA/altekk-releases/raw/main/altekk-vpn.apk",
   "apkSha256": "05f0520261daf30b2686376b005379a76f5d54774479cee61d75e6bed1b318dd",
-  "minSupportedVersionCode": 1,
+  "minSupportedVersionCode": 12,
   "releasedAt": "2026-04-23",
   "changelog": {
     "fr": "correction bug yandex",
