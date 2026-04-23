@@ -1,14 +1,14 @@
 {
   "_comment": "versionCode convention: monotonic integer, bumped each release",
-  "versionCode": 14,
-  "versionName": "0.3.1",
+  "versionCode": 15,
+  "versionName": "0.3.2",
   "apkUrl": "https://github.com/Zoumra-LCA/altekk-releases/raw/main/altekk-vpn.apk",
-  "apkSha256": "9597cd23bb20990068a2348c7291b488ae49e36f9a5dc6a30621efbcfe00ee01",
+  "apkSha256": "ee518b98355f0729941a7d95341d1364d1ee71465c5e55b605a1128aaeaec25f",
   "minSupportedVersionCode": 1,
   "releasedAt": "2026-04-23",
   "changelog": {
-    "fr": "Nouveau : connexion par code de pairing (sans mot de passe). Session prolongée à 90 jours.",
-    "en": "New: pair-code login (no password needed). Session extended to 90 days.",
-    "ru": "Новое: подключение по коду пары (без пароля). Сессия продлена до 90 дней."
+    "fr": "Correction du crash sur Android 9 et versions antérieures lors du démarrage du VPN.",
+    "en": "Fix app crash on Android 9 and older when starting VPN.",
+    "ru": "Исправление сбоя приложения на Android 9 и более ранних версиях при запуске VPN."
   }
 }
