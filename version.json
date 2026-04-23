@@ -3,12 +3,12 @@
   "versionCode": 15,
   "versionName": "0.3.2",
   "apkUrl": "https://github.com/Zoumra-LCA/altekk-releases/raw/main/altekk-vpn.apk",
-  "apkSha256": "ee518b98355f0729941a7d95341d1364d1ee71465c5e55b605a1128aaeaec25f",
+  "apkSha256": "fabc245f048c09904eb8f636b44714e86e60eedd7c79fc71e4611d7e9e79ba8c",
   "minSupportedVersionCode": 1,
   "releasedAt": "2026-04-23",
   "changelog": {
-    "fr": "Correction du crash sur Android 9 et versions antérieures lors du démarrage du VPN.",
-    "en": "Fix app crash on Android 9 and older when starting VPN.",
-    "ru": "Исправление сбоя приложения на Android 9 и более ранних версиях при запуске VPN."
+    "fr": "Correction du crash sur Android 9 et ROMs custom lors du démarrage du VPN.",
+    "en": "Fix app crash on Android 9 and custom ROMs when starting VPN.",
+    "ru": "Исправление сбоя приложения на Android 9 и кастомных ROM при запуске VPN."
   }
 }
