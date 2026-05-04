@@ -1,14 +1,14 @@
 {
   "_comment": "versionCode convention: monotonic integer, bumped each release",
-  "versionCode": 16,
-  "versionName": "0.3.3",
+  "versionCode": 17,
+  "versionName": "0.3.4",
   "apkUrl": "https://github.com/Zoumra-LCA/altekk-releases/raw/main/altekk-vpn.apk",
-  "apkSha256": "025356EAF0B4699EDB6161FEABB7A5449D45E0F78B32E012CE9D1A17974C9815",
+  "apkSha256": "F0A40DF6D5258EC1E8590E570C89D4379280ABA642EADC0F41E3E63BEE630802",
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-05-03",
+  "releasedAt": "2026-05-04",
   "changelog": {
-      "fr": "Correction du re-login forcé au démarrage. Refonte du dialogue 'appareil déconnecté'. Localisation russe complète de l'écran de connexion.",
-      "ru": "Исправление принудительного повторного входа при запуске. Переработка диалога «устройство отключено». Полная русская локализация экрана входа.",
-      "en": "Fix forced re-login on cold start. Redesign of the 'device disconnected' dialog. Full Russian localization of the login screen."
+      "fr": "Mises à jour téléchargées et installées directement depuis l'application — fini les fichiers corrompus et les noms de fichiers qui s'accumulent.",
+      "ru": "Обновления теперь загружаются и устанавливаются прямо в приложении — без повреждённых файлов и накапливающихся имён.",
+      "en": "Updates now download and install directly in-app — no more corrupted files or accumulating filenames."
   }
 }
