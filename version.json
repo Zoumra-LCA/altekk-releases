@@ -1,14 +1,14 @@
 {
   "_comment": "versionCode convention: monotonic integer, bumped each release",
-  "versionCode": 17,
-  "versionName": "0.3.4",
+  "versionCode": 18,
+  "versionName": "0.3.5",
   "apkUrl": "https://github.com/Zoumra-LCA/altekk-releases/raw/main/altekk-vpn.apk",
-  "apkSha256": "F0A40DF6D5258EC1E8590E570C89D4379280ABA642EADC0F41E3E63BEE630802",
+  "apkSha256": "7225FF34465B82C540A182992308598217892A668C4FB8DEFD6AADEA1554EBDE",
   "minSupportedVersionCode": 1,
   "releasedAt": "2026-05-04",
   "changelog": {
-      "fr": "Mises à jour téléchargées et installées directement depuis l'application — fini les fichiers corrompus et les noms de fichiers qui s'accumulent.",
-      "ru": "Обновления теперь загружаются и устанавливаются прямо в приложении — без повреждённых файлов и накапливающихся имён.",
-      "en": "Updates now download and install directly in-app — no more corrupted files or accumulating filenames."
+      "fr": "Mises à jour téléchargées et installées directement dans l'application avec vérification d'intégrité. Nouveau bandeau d'annonces pour les avis de maintenance.",
+      "ru": "Обновления загружаются и устанавливаются прямо в приложении с проверкой целостности. Новое уведомление о технических работах.",
+      "en": "Updates download and install directly in-app with integrity check. New announcement banner for maintenance notices."
   }
 }
