@@ -1,14 +1,14 @@
 {
   "_comment": "versionCode convention: monotonic integer, bumped each release",
-  "versionCode": 19,
-  "versionName": "0.3.6",
+  "versionCode": 20,
+  "versionName": "0.3.7",
   "apkUrl": "https://github.com/Zoumra-LCA/altekk-releases/raw/main/altekk-vpn.apk",
-  "apkSha256": "87B67DF5EBB1CD87CFBF3589CBEBE97070CA64E6D3FE6864458B0B2E460B063F",
+  "apkSha256": "F280988C134298864A4B7A9EA6A612D17229ED93E25E1CAACACB46614A765E30",
   "minSupportedVersionCode": 1,
   "releasedAt": "2026-05-04",
   "changelog": {
-      "fr": "Correction critique : la session reste maintenant active après fermeture/redémarrage du téléphone (plus besoin de retaper le code de pairing à chaque ouverture).",
-      "ru": "Критическое исправление: сессия теперь сохраняется после закрытия приложения или перезагрузки телефона (больше не нужно вводить код подключения при каждом запуске).",
-      "en": "Critical fix: session now persists across app kill and device reboot (no more re-entering pairing code on every launch)."
+     "fr": "Améliore la persistance de session sur les appareils Android (notamment Huawei) — l'app reste connectée après un redémarrage du téléphone.",
+     "ru": "Улучшена устойчивость сессии на устройствах Android (особенно Huawei) — приложение остаётся подключённым после перезагрузки телефона.",
+     "en": "Improved session persistence on Android devices (notably Huawei) — the app stays signed in after a phone reboot."
   }
 }
