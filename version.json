@@ -1,15 +1,15 @@
 {
   "_comment": "versionCode convention: monotonic integer, bumped each release",
-  "versionCode": 20,
-  "versionName": "0.3.7",
+  "versionCode": 21,
+  "versionName": "0.3.8",
   "apkUrl": "https://github.com/Zoumra-LCA/altekk-releases/raw/main/altekk-vpn.apk",
-  "apkSha256": "734CE445BAA8A7C7FC00340140142C02DF3E698FFF14631D55CC2E1ADE9511D2",
+  "apkSha256": "1362601841D3839B68D909CB55B42DB54F90448E01DDF004F2A16357B1E01866",
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-05-04",
+  "releasedAt": "2026-05-11",
   "changelog": {
-     "fr": "Améliore la persistance de session sur les appareils Android (notamment Huawei) — l'app reste connectée après un redémarrage du téléphone.",
-     "ru": "Улучшена устойчивость сессии на устройствах Android (особенно Huawei) — приложение остаётся подключённым после перезагрузки телефона.",
-     "en": "Improved session persistence on Android devices (notably Huawei) — the app stays signed in after a phone reboot."
+     "fr": "Sélecteur de langue dans les paramètres (icône ⚙ sur l'écran d'accueil) + amélioration interne de la diffusion des annonces in-app.",
+     "ru": "Выбор языка в настройках (значок ⚙ на главном экране) + улучшена внутренняя доставка in-app объявлений.",
+     "en": "Language selector in Settings (⚙ icon on the home screen) + internal improvement to in-app announcement delivery."
   },
   "announcement": {
     "id": "019e165c-d6bf-753d-a145-4a502b0847f7",
