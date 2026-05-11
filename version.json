@@ -10,5 +10,14 @@
      "fr": "Améliore la persistance de session sur les appareils Android (notamment Huawei) — l'app reste connectée après un redémarrage du téléphone.",
      "ru": "Улучшена устойчивость сессии на устройствах Android (особенно Huawei) — приложение остаётся подключённым после перезагрузки телефона.",
      "en": "Improved session persistence on Android devices (notably Huawei) — the app stays signed in after a phone reboot."
+  },
+  "announcement": {
+    "id": "019e165c-d6bf-753d-a145-4a502b0847f7",
+    "expiresAt": "2026-05-12T12:25:00.000Z",
+    "body": {
+      "fr": "Nouvelle version disponible le 12 mai 2026 !\nVous pouvez désormais choisir la langue de l'application directement depuis les paramètres.\nMerci de votre confiance et bonne utilisation !",
+      "ru": "Новая версия доступна 12 мая 2026 года!\nТеперь вы можете выбрать язык приложения прямо в настройках.\nСпасибо за доверие и приятного использования!",
+      "en": "New version available on May 12, 2026!\nYou can now choose the app's language directly from the settings.\nThank you for your trust and enjoy!"
+    }
   }
 }
