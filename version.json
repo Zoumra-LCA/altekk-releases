@@ -1,15 +1,15 @@
 {
   "_comment": "versionCode convention: monotonic integer, bumped each release",
-  "versionCode": 21,
-  "versionName": "0.3.8",
+  "versionCode": 23,
+  "versionName": "0.3.10",
   "apkUrl": "https://github.com/Zoumra-LCA/altekk-releases/raw/main/altekk-vpn.apk",
-  "apkSha256": "1362601841D3839B68D909CB55B42DB54F90448E01DDF004F2A16357B1E01866",
+  "apkSha256": "2930B294800F8CA31F894F9339D538B36A5E6E3C6062E4A911539858B0496685",
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-05-11",
+  "releasedAt": "2026-05-16",
   "changelog": {
-     "fr": "Sélecteur de langue dans les paramètres (icône ⚙ sur l'écran d'accueil) + amélioration interne de la diffusion des annonces in-app.",
-     "ru": "Выбор языка в настройках (значок ⚙ на главном экране) + улучшена внутренняя доставка in-app объявлений.",
-     "en": "Language selector in Settings (⚙ icon on the home screen) + internal improvement to in-app announcement delivery."
+     "fr": "Correction de la mise à jour automatique : raccourci direct vers les paramètres système Android pour autoriser l'installation, en cas de refus de permission.",
+     "ru": "Исправлена автообновление: добавлена прямая кнопка перехода в системные настройки Android для разрешения установки, если разрешение не выдано.",
+     "en": "Auto-update fix: direct shortcut to Android system settings to grant install permission when denied."
   },
   "announcement": {
     "id": "019e165c-d6bf-753d-a145-4a502b0847f7",
