@@ -1,15 +1,15 @@
 {
   "_comment": "versionCode convention: monotonic integer, bumped each release",
-  "versionCode": 24,
-  "versionName": "0.3.11",
+  "versionCode": 25,
+  "versionName": "0.3.12",
   "apkUrl": "https://github.com/Zoumra-LCA/altekk-releases/raw/main/altekk-vpn.apk",
-  "apkSha256": "95A677E15D8545EC45B14FC21862F0F81E224E1F623F44539E47DE8A67A431BA",
+  "apkSha256": "7D288B213FD3394CBF1A4BD7481B788CB9C61E06C0389E645F9202A7F39FA2F1",
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-02",
+  "releasedAt": "2026-06-05",
   "changelog": {
-     "fr": "Correction d'un problème qui pouvait vous déconnecter et vous renvoyer à l'écran de connexion. Stabilité de la connexion et reconnexion automatique améliorées.",
-     "ru": "Исправлена проблема, из-за которой приложение могло разлогинивать вас и возвращать на экран входа. Улучшены стабильность подключения и автоматическое переподключение.",
-     "en": "Fixed an issue that could log you out and return you to the login screen. Improved connection stability and automatic reconnection."
+     "fr": "Affichage du débit montant et descendant en temps réel pendant la connexion.",
+     "ru": "Отображение скорости отдачи и загрузки в реальном времени во время подключения.",
+     "en": "Real-time upload and download speed shown while connected."
   },
   "announcement": {
     "id": "019e165c-d6bf-753d-a145-4a502b0847f7",
