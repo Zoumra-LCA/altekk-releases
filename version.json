@@ -1,15 +1,15 @@
 {
   "_comment": "versionCode convention: monotonic integer, bumped each release",
-  "versionCode": 25,
-  "versionName": "0.3.12",
+  "versionCode": 26,
+  "versionName": "0.3.13",
   "apkUrl": "https://github.com/Zoumra-LCA/altekk-releases/raw/main/altekk-vpn.apk",
-  "apkSha256": "7D288B213FD3394CBF1A4BD7481B788CB9C61E06C0389E645F9202A7F39FA2F1",
+  "apkSha256": "6253a32b9722b3fb7233cd01fc996f190255a0d8ea7f2edc6283df1c1493b941",
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-05",
+  "releasedAt": "2026-06-19",
   "changelog": {
-     "fr": "Affichage du débit montant et descendant en temps réel pendant la connexion.",
-     "ru": "Отображение скорости отдачи и загрузки в реальном времени во время подключения.",
-     "en": "Real-time upload and download speed shown while connected."
+     "fr": "Choix du serveur de sortie : Auto, France ou Royaume-Uni.",
+     "ru": "Выбор сервера выхода: Авто, Франция или Великобритания.",
+     "en": "Choose your exit server: Auto, France or United Kingdom."
   },
   "announcement": {
     "id": "019e165c-d6bf-753d-a145-4a502b0847f7",
