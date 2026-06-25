@@ -1,23 +1,14 @@
 {
   "_comment": "versionCode convention: monotonic integer, bumped each release",
-  "versionCode": 27,
-  "versionName": "0.3.14",
+  "versionCode": 28,
+  "versionName": "0.3.15",
   "apkUrl": "https://github.com/Zoumra-LCA/altekk-releases/raw/main/altekk-vpn.apk",
-  "apkSha256": "2e688e64902f46553fc30746d9d2a9f5f7c67147494cb22402757b8d3601b694",
+  "apkSha256": "e274223a4d5aaf6c72fcc5cdb6d3ac0bfa20efe9807ed1960b822caf4f4c6af8",
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-21",
+  "releasedAt": "2026-06-25",
   "changelog": {
-     "fr": "Sélecteur de serveur de sortie en liste déroulante, avec le nouveau serveur Allemagne.",
-     "ru": "Выбор сервера выхода в виде списка, добавлен сервер Германия.",
-     "en": "Exit server selector as a dropdown, with the new Germany server."
-  },
-  "announcement": {
-    "id": "019e165c-d6bf-753d-a145-4a502b0847f7",
-    "expiresAt": "2026-05-12T12:25:00.000Z",
-    "body": {
-      "fr": "Nouvelle version disponible le 12 mai 2026 !\nVous pouvez désormais choisir la langue de l'application directement depuis les paramètres.\nMerci de votre confiance et bonne utilisation !",
-      "ru": "Новая версия доступна 12 мая 2026 года!\nТеперь вы можете выбрать язык приложения прямо в настройках.\nСпасибо за доверие и приятного использования!",
-      "en": "New version available on May 12, 2026!\nYou can now choose the app's language directly from the settings.\nThank you for your trust and enjoy!"
-    }
+     "fr": "Améliorations de la fiabilité de connexion.",
+     "ru": "Улучшена надёжность подключения.",
+     "en": "Connection reliability improvements."
   }
 }
