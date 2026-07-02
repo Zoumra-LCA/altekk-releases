@@ -1,14 +1,14 @@
 {
   "_comment": "versionCode convention: monotonic integer, bumped each release",
-  "versionCode": 28,
-  "versionName": "0.3.15",
+  "versionCode": 29,
+  "versionName": "0.3.16",
   "apkUrl": "https://github.com/Zoumra-LCA/altekk-releases/raw/main/altekk-vpn.apk",
-  "apkSha256": "e274223a4d5aaf6c72fcc5cdb6d3ac0bfa20efe9807ed1960b822caf4f4c6af8",
+  "apkSha256": "9c5d8248cfcc906488ec3642ef7988a767295de0cb586c2bbaab01c2a0bfadde",
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-25",
+  "releasedAt": "2026-07-02",
   "changelog": {
-     "fr": "Améliorations de la fiabilité de connexion.",
-     "ru": "Улучшена надёжность подключения.",
-     "en": "Connection reliability improvements."
+     "fr": "Bascule automatique vers le relais de secours quand la connexion directe est bloquée sur les données mobiles.",
+     "ru": "Автоматическое переключение на резервный ретранслятор, когда прямое подключение заблокировано в мобильной сети.",
+     "en": "Automatic failover to the backup relay when the direct connection is blocked on mobile data."
   }
 }
